@@ -1,0 +1,5 @@
+https://zhuanlan.zhihu.com/p/27450288
+http://yosinski.com/transfer
+http://s.yosinski.com/yosinski_141209_nips.pdf
+http://yosinski.com/media/papers/Yosinski__2014__NIPS__How_Transferable_with_Supp.pdf
+由于数据比较大上传的时候把数据源删除了，vgg等固定模型文件也删除了。需要的话另行下载。
